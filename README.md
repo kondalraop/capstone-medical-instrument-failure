@@ -6,7 +6,7 @@ Medical instruments are critical to patient care, but unexpected failures can le
 
 Research Question
 
-What factors contribute most to medical instrument failures, and can we accurately predict the failure_count_last_12_months based on operational and maintenance logs?
+What factors contribute most to medical instrument failures, and can we accurately predict the failure count last 12months based on operational and maintenance logs?
 
 Data Sources
 
